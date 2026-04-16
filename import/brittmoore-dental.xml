@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- WordPress eXtended RSS (WXR) Import File
+     Generated for: Brittmoore Dental / Philip J. Cimo DDS, FAGD
+     Usage: WordPress Admin > Tools > Import > WordPress > Upload this file
+     Plugins needed: Yoast SEO (for meta titles/descriptions)
+-->
+<rss version="2.0"
+    xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<channel>
+    <title>Brittmoore Dental</title>
+    <link>http://localhost</link>
+    <description>Houston Dentist | Philip J. Cimo DDS, FAGD</description>
+    <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>http://localhost</wp:base_site_url>
+    <wp:base_blog_url>http://localhost</wp:base_blog_url>
+
+    <!-- ══════════════════════════════════════════
+         AUTHORS
+    ══════════════════════════════════════════ -->
+    <wp:author>
+        <wp:author_id>1</wp:author_id>
+        <wp:author_login><![CDATA[admin]]></wp:author_login>
+        <wp:author_email><![CDATA[phil@philipcimodds.com]]></wp:author_email>
+        <wp:author_display_name><![CDATA[Dr. Philip J. Cimo]]></wp:author_display_name>
+        <wp:author_first_name><![CDATA[Philip]]></wp:author_first_name>
+        <wp:author_last_name><![CDATA[Cimo]]></wp:author_last_name>
+    </wp:author>
+
+    <!-- ══════════════════════════════════════════
+         CATEGORIES
+    ══════════════════════════════════════════ -->
+    <wp:category>
+        <wp:term_id>1</wp:term_id>
+        <wp:category_nicename><![CDATA[dental-health]]></wp:category_nicename>
+        <wp:category_parent></wp:category_parent>
+        <wp:cat_name><![CDATA[Dental Health]]></wp:cat_name>
+    </wp:category>
+    <wp:category>
+        <wp:term_id>2</wp:term_id>
+        <wp:category_nicename><![CDATA[oral-hygiene]]></wp:category_nicename>
+        <wp:category_parent></wp:category_parent>
+        <wp:cat_name><![CDATA[Oral Hygiene]]></wp:cat_name>
+    </wp:category>
+    <wp:category>
+        <wp:term_id>3</wp:term_id>
+        <wp:category_nicename><![CDATA[dental-implants]]></wp:category_nicename>
+        <wp:category_parent></wp:category_parent>
+        <wp:cat_name><![CDATA[Dental Implants]]></wp:cat_name>
+    </wp:category>
+    <wp:category>
+        <wp:term_id>4</wp:term_id>
+        <wp:category_nicename><![CDATA[cosmetic-dentistry]]></wp:category_nicename>
+        <wp:category_parent></wp:category_parent>
+        <wp:cat_name><![CDATA[Cosmetic Dentistry]]></wp:cat_name>
+    </wp:category>
+
+    <!-- ══════════════════════════════════════════
+         NAV MENUS
+    ══════════════════════════════════════════ -->
+    <wp:term>
+        <wp:term_id>100</wp:term_id>
+        <wp:term_taxonomy>nav_menu</wp:term_taxonomy>
+        <wp:term_slug><![CDATA[primary-menu]]></wp:term_slug>
+        <wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
+    </wp:term>
+
+    <!-- ══════════════════════════════════════════
+         PAGES
+    ══════════════════════════════════════════ -->
+
+    <!-- HOME PAGE -->
+    <item>
+        <title>Home</title>
+        <link>http://localhost/</link>
+        <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <content:encoded><![CDATA[<!-- Homepage content is rendered by front-page.php template -->]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>10</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-09 00:00:00]]></wp:post_date>
+        <wp:post_status><![CDATA[publish]]></wp:post_status>
+        <wp:post_name><![CDATA[home]]></wp:post_name>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[front-page.php]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Houston Dentist | Dentist in Houston | West Houston Cosmetic Dentistry]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Philip J. Cimo DDS, FAGD provides comprehensive dental care in Houston, TX. From dental implants to cosmetic dentistry, our friendly team delivers excellent service. Call 713-464-1887.]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Houston Dentist]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- ABOUT US -->
+    <item>
+        <title>About Us</title>
+        <link>http://localhost/about/</link>
+        <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <content:encoded><![CDATA[<!-- Content rendered by template-about.php -->]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>11</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-09 00:00:00]]></wp:post_date>
+        <wp:post_status><![CDATA[publish]]></wp:post_status>
+        <wp:post_name><![CDATA[about]]></wp:post_name>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>1</wp:menu_order>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[template-about.php]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Philip J. Cimo DDS, FAGD | About Us in Houston]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Meet Dr. Philip J. Cimo DDS, FAGD — a native Houstonian providing exceptional dental care since 2004. Learn about his education, military service, and commitment to patient comfort.]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Houston dentist about]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- OUR PRACTICE -->
+    <item>
+        <title>Our Practice</title>
+        <link>http://localhost/our-practice/</link>
+        <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <content:encoded><![CDATA[<!-- Content rendered by template-our-practice.php -->]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>12</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-09 00:00:00]]></wp:post_date>
+        <wp:post_status><![CDATA[publish]]></wp:post_status>
+        <wp:post_name><![CDATA[our-practice]]></wp:post_name>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>2</wp:menu_order>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[template-our-practice.php]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Philip J. Cimo DDS, FAGD | Our Practice in Houston]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Learn about our state-of-the-art dental facility in Houston, TX. Discover our appointment process, financial policies, and why patients love Brittmoore Dental.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- TESTIMONIALS -->
+    <item>
+        <title>Testimonials</title>
+        <link>http://localhost/testimonials/</link>
+        <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <content:encoded><![CDATA[<!-- Content rendered by template-testimonials.php -->]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>13</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-09 00:00:00]]></wp:post_date>
+        <wp:post_status><![CDATA[publish]]></wp:post_status>
+        <wp:post_name><![CDATA[testimonials]]></wp:post_name>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>3</wp:menu_order>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[template-testimonials.php]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Philip J. Cimo DDS, FAGD | Testimonials in Houston]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Read glowing reviews from our Houston dental patients. See why families trust Philip J. Cimo DDS, FAGD for all their dental care needs at Brittmoore Dental.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- SMILE GALLERY -->
+    <item>
+        <title>Smile Gallery</title>
+        <link>http://localhost/smile-gallery/</link>
+        <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <content:encoded><![CDATA[<!-- Content rendered by template-smile-gallery.php -->]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>14</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-09 00:00:00]]></wp:post_date>
+        <wp:post_status><![CDATA[publish]]></wp:post_status>
+        <wp:post_name><![CDATA[smile-gallery]]></wp:post_name>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>4</wp:menu_order>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[template-smile-gallery.php]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Philip J. Cimo DDS, FAGD | Smile Gallery in Houston]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[View before and after dental transformation photos from Brittmoore Dental in Houston. See real patient results from implants, veneers, crowns, and cosmetic dentistry.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- DENTAL IMPLANT FAQS -->
+    <item>
+        <title>Dental Implant FAQs</title>
+        <link>http://localhost/dental-implant-faqs/</link>
+        <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <content:encoded><![CDATA[<!-- Content rendered by template-implant-faqs.php -->]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>15</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-09 00:00:00]]></wp:post_date>
+        <wp:post_status><![CDATA[publish]]></wp:post_status>
+        <wp:post_name><![CDATA[dental-implant-faqs]]></wp:post_name>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>5</wp:menu_order>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[template-implant-faqs.php]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Philip J. Cimo DDS, FAGD | Dental Implant FAQs in Houston]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Get answers to your dental implant questions. Learn about cost, procedure, candidacy, and longevity from Dr. Philip J. Cimo DDS, FAGD in Houston, TX.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- PATIENT RESOURCES -->
+    <item>
+        <title>Patient Resources</title>
+        <link>http://localhost/patient-resources/</link>
+        <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <content:encoded><![CDATA[<!-- Content rendered by template-patient-resources.php -->]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>16</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-09 00:00:00]]></wp:post_date>
+        <wp:post_status><![CDATA[publish]]></wp:post_status>
+        <wp:post_name><![CDATA[patient-resources]]></wp:post_name>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>6</wp:menu_order>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[template-patient-resources.php]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Philip J. Cimo DDS, FAGD | Patient Resources in Houston]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Access patient forms, insurance information, and first visit guides for Brittmoore Dental in Houston, TX. Everything you need for a smooth dental appointment.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- OUR TECHNOLOGY -->
+    <item>
+        <title>Our Technology</title>
+        <link>http://localhost/our-technology/</link>
+        <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <content:encoded><![CDATA[<!-- Content rendered by template-technology.php -->]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>17</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-09 00:00:00]]></wp:post_date>
+        <wp:post_status><![CDATA[publish]]></wp:post_status>
+        <wp:post_name><![CDATA[our-technology]]></wp:post_name>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>7</wp:menu_order>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[template-technology.php]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Philip J. Cimo DDS, FAGD | Our Technology in Houston]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Brittmoore Dental uses advanced dental technology including digital X-rays, I-CAT 3D imaging, laser dentistry, and sedation options for comfortable Houston dental care.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- FINANCING -->
+    <item>
+        <title>Financing</title>
+        <link>http://localhost/financing/</link>
+        <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <content:encoded><![CDATA[<!-- Content rendered by template-financing.php -->]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>18</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-09 00:00:00]]></wp:post_date>
+        <wp:post_status><![CDATA[publish]]></wp:post_status>
+        <wp:post_name><![CDATA[financing]]></wp:post_name>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>8</wp:menu_order>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[template-financing.php]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Philip J. Cimo DDS, FAGD | Dental Financing in Houston]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Affordable dental care with flexible financing through CareCredit and Sunbit. Brittmoore Dental in Houston accepts most insurance plans and offers payment plans.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- APPOINTMENT REQUEST -->
+    <item>
+        <title>Appointment Request</title>
+        <link>http://localhost/appointment-request/</link>
+        <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <content:encoded><![CDATA[<!-- Content rendered by template-appointment.php -->]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>19</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-09 00:00:00]]></wp:post_date>
+        <wp:post_status><![CDATA[publish]]></wp:post_status>
+        <wp:post_name><![CDATA[appointment-request]]></wp:post_name>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>9</wp:menu_order>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[template-appointment.php]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Request a Dental Appointment | Brittmoore Dental Houston TX]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Schedule your dental appointment with Dr. Philip J. Cimo DDS, FAGD in Houston, TX. New patients welcome. Call 713-464-1887 or request online.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- CONTACT US -->
+    <item>
+        <title>Contact Us</title>
+        <link>http://localhost/contact-us/</link>
+        <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <content:encoded><![CDATA[<!-- Content rendered by template-contact.php -->]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>20</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-09 00:00:00]]></wp:post_date>
+        <wp:post_status><![CDATA[publish]]></wp:post_status>
+        <wp:post_name><![CDATA[contact-us]]></wp:post_name>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>10</wp:menu_order>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[template-contact.php]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Contact Philip J. Cimo DDS, FAGD | Brittmoore Dental Houston]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Contact Brittmoore Dental in Houston, TX. Office at 1046 Brittmoore Road. Call 713-464-1887. Mon–Thu 8AM–5PM, Fri 8AM–2PM.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- ══════════════════════════════════════════
+         BLOG POSTS
+    ══════════════════════════════════════════ -->
+
+    <!-- POST 1: Time for Some Spring Cleaning! -->
+    <item>
+        <title>Time for Some Spring Cleaning!</title>
+        <link>http://localhost/time-for-some-spring-cleaning/</link>
+        <pubDate>Mon, 07 Apr 2026 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <category domain="category" nicename="oral-hygiene"><![CDATA[Oral Hygiene]]></category>
+        <category domain="category" nicename="dental-health"><![CDATA[Dental Health]]></category>
+        <content:encoded><![CDATA[<p>Just like that, it's Spring, and the world looks brighter! The skies are sunnier, the flowers are blooming, and it's time to refresh not just your home — but your oral health routine too.</p>
+
+<h2>Assemble the Right Tools</h2>
+<p>Start with the right equipment. We recommend <strong>soft-bristled toothbrushes</strong> to protect your enamel and gums from unnecessary abrasion. If you struggle with plaque buildup, consider an <strong>electric toothbrush</strong> — they're proven to remove more plaque than manual brushing. Always use <strong>fluoride toothpaste</strong> to strengthen enamel and help prevent cavities.</p>
+
+<h2>Use Those Tools</h2>
+<p>Having the right tools only helps if you use them correctly. Brush twice daily for <strong>two full minutes</strong>, holding your brush at a 45-degree angle along the gumline. Don't forget to <strong>floss at least once daily</strong> — this removes bacteria and food debris from between teeth where your brush can't reach. If you wear dental appliances, clean them thoroughly before putting them back in your mouth.</p>
+
+<h2>Maintain Your Dental Products</h2>
+<p>Worn-out tools can't do their job properly. Replace your toothbrush or brush head <strong>every 3 to 4 months</strong>, or sooner if the bristles look frayed. Check expiration dates on your oral care products. Store your toothbrush upright in the open air so it can dry properly between uses, and clean your appliance cases regularly.</p>
+
+<h2>Schedule Professional Care</h2>
+<p>Spring is the perfect time to schedule your <strong>dental exam and professional cleaning</strong>. Our hygienists can remove tartar buildup that brushing alone can't address. This is also a great time to ask about <strong>professional whitening treatments</strong> — they deliver far superior results compared to over-the-counter options, giving you a noticeably brighter smile for the season ahead.</p>
+
+<p>Ready to spring clean your smile? <a href="/appointment-request/">Schedule your appointment</a> with Brittmoore Dental today!</p>]]></content:encoded>
+        <excerpt:encoded><![CDATA[Just like that, it's Spring, and the world looks brighter! Learn how to refresh your oral health routine this season with tips from Dr. Cimo and the Brittmoore Dental team.]]></excerpt:encoded>
+        <wp:post_id>30</wp:post_id>
+        <wp:post_date><![CDATA[2026-04-07 00:00:00]]></wp:post_date>
+        <wp:post_status><![CDATA[publish]]></wp:post_status>
+        <wp:post_name><![CDATA[time-for-some-spring-cleaning]]></wp:post_name>
+        <wp:post_type><![CDATA[post]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Time for Some Spring Cleaning! | Brittmoore Dental Blog Houston]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Spring is the perfect time to refresh your oral health routine. Get expert tips on brushing, flossing, and scheduling professional dental care from Dr. Cimo in Houston, TX.]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+            <wp:meta_value><![CDATA[blog-spring-cleaning]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- POST 2: Are You Nervous About the Dentist? -->
+    <item>
+        <title>Are you nervous about seeing the dentist? You're not alone!</title>
+        <link>http://localhost/are-you-nervous-about-seeing-the-dentist/</link>
+        <pubDate>Mon, 31 Mar 2026 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <category domain="category" nicename="dental-health"><![CDATA[Dental Health]]></category>
+        <content:encoded><![CDATA[<p>A trip to the dentist these days is pretty routine — yet for many people, it still causes significant anxiety. Research shows that approximately <strong>12% of adults</strong> experience dental anxiety so severe that they avoid the dentist entirely. This avoidance can lead to serious oral health problems that become both more painful and more expensive to treat over time.</p>
+
+<p>At Brittmoore Dental, we understand dental anxiety and work hard to create a comfortable, welcoming experience for every patient — no matter how long it's been since your last visit.</p>
+
+<h2>Five Tips for Managing Dental Anxiety</h2>
+
+<h3>1. Identify Your Fears</h3>
+<p>Write down exactly what makes you nervous about visiting the dentist. Is it the sounds? The fear of pain? A bad experience in the past? Once you've identified your specific concerns, bring that list to your appointment and share it with Dr. Cimo. Our team is trained to address these concerns directly.</p>
+
+<h3>2. Visit Regularly</h3>
+<p>It might seem counterintuitive, but the more often you come in, the easier it gets. Regular checkups mean each appointment is shorter and requires less extensive work. Avoiding the dentist allows small issues to become big problems.</p>
+
+<h3>3. Use Distractions</h3>
+<p>Bring a pair of headphones and your favorite music or podcast to your appointment. Many patients find that focusing on something else makes procedures go by much faster and feel less intimidating.</p>
+
+<h3>4. Practice Breathing Techniques</h3>
+<p>Slow, deep breathing exercises can significantly reduce anxiety before and during appointments. Try breathing in for four counts, holding for four, and exhaling for four. This simple technique activates your body's natural relaxation response.</p>
+
+<h3>5. Ask About Sedation Options</h3>
+<p>Don't be afraid to ask us about <strong>anti-anxiety medications or sedation dentistry</strong>. We offer several options — from nitrous oxide to oral conscious sedation — to help you relax and feel comfortable throughout your procedure.</p>
+
+<p>Remember: we're here to help, not to judge. <a href="/appointment-request/">Schedule your visit</a> today and let us show you that dental care can be a positive experience.</p>]]></content:encoded>
+        <excerpt:encoded><![CDATA[Approximately 12% of adults experience dental anxiety severe enough to avoid the dentist. Here are 5 proven strategies to overcome your fears and get the care you need.]]></excerpt:encoded>
+        <wp:post_id>31</wp:post_id>
+        <wp:post_date><![CDATA[2026-03-31 00:00:00]]></wp:post_date>
+        <wp:post_status><![CDATA[publish]]></wp:post_status>
+        <wp:post_name><![CDATA[are-you-nervous-about-seeing-the-dentist]]></wp:post_name>
+        <wp:post_type><![CDATA[post]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Nervous About the Dentist? You're Not Alone | Brittmoore Dental Houston]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Dental anxiety affects millions of Americans. Learn 5 effective strategies to manage your fears and get the dental care you need from Dr. Cimo in Houston, TX.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- POST 3: How Missing Teeth Can Affect Your Health -->
+    <item>
+        <title>How Missing Teeth Can Affect Your Health</title>
+        <link>http://localhost/how-missing-teeth-can-affect-your-health/</link>
+        <pubDate>Mon, 24 Mar 2026 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <category domain="category" nicename="dental-implants"><![CDATA[Dental Implants]]></category>
+        <category domain="category" nicename="dental-health"><![CDATA[Dental Health]]></category>
+        <content:encoded><![CDATA[<p>According to the American Academy of Periodontology, approximately <strong>three out of four Americans</strong> deal with some form of gum disease — ranging from mild gingivitis to more severe periodontitis. Despite this widespread prevalence, only about 3% of those affected seek treatment. Extensive research has established clear connections between periodontal disease and serious systemic conditions including cancer, diabetes, and heart disease.</p>
+
+<h2>The Scope of the Problem</h2>
+<p>A joint study between the CDC and the American Academy of Periodontology, published in the <em>Journal of Dental Research</em>, revealed startling findings. When researchers used comprehensive periodontal examinations rather than partial assessments, disease rates appeared 50% higher than previously estimated. This suggests that roughly <strong>twice as many Americans</strong> experience moderate to severe gum disease as previously believed.</p>
+
+<h2>The Chronic Illness Connection</h2>
+<p>Many individuals with chronic medical conditions lack dental insurance or the financial resources for regular oral care. This barrier, combined with insufficient education about proper oral hygiene, allows minor issues to escalate into serious health problems.</p>
+
+<p>Both tooth decay and gum disease stem from bacterial infections — either in the teeth themselves or in the supporting tissues and bone beneath the gums. Without regular dental checkups, cavity development can go unnoticed until significant damage has occurred.</p>
+
+<h2>Systemic Health Implications</h2>
+<p>Research consistently demonstrates associations between tooth loss and:</p>
+<ul>
+<li><strong>Heart disease</strong> — oral bacteria can enter the bloodstream and affect cardiovascular health</li>
+<li><strong>Diabetes</strong> — the relationship is bidirectional; gum disease can make blood sugar harder to control</li>
+<li><strong>Kidney disease</strong> — patients with tooth loss show increased risk</li>
+<li><strong>Cognitive decline</strong> — emerging research suggests connections to memory and brain health</li>
+</ul>
+
+<h2>Prevention is Key</h2>
+<p>A healthy mouth maintains a slightly alkaline pH, which is essential for resisting harmful bacteria. Maintaining excellent oral health through regular dental examinations, consistent brushing (twice daily for two minutes), and daily flossing helps prevent periodontal complications and reduces the risk of tooth loss — and its associated systemic health effects.</p>
+
+<p>If you have missing teeth, <a href="/dental-implant-faqs/">dental implants</a> may be an excellent solution. Contact Brittmoore Dental to schedule a consultation today.</p>]]></content:encoded>
+        <excerpt:encoded><![CDATA[According to the American Academy of Periodontology, three out of four Americans experience gum disease. Learn how missing teeth and periodontal disease affect your overall health.]]></excerpt:encoded>
+        <wp:post_id>32</wp:post_id>
+        <wp:post_date><![CDATA[2026-03-24 00:00:00]]></wp:post_date>
+        <wp:post_status><![CDATA[publish]]></wp:post_status>
+        <wp:post_name><![CDATA[how-missing-teeth-can-affect-your-health]]></wp:post_name>
+        <wp:post_type><![CDATA[post]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[How Missing Teeth Affect Your Overall Health | Brittmoore Dental]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Missing teeth and gum disease are linked to heart disease, diabetes, and other serious conditions. Learn the health risks and solutions from Dr. Cimo in Houston, TX.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- POST 4: What Exactly is Biofilm? -->
+    <item>
+        <title>What exactly is biofilm?</title>
+        <link>http://localhost/what-exactly-is-biofilm/</link>
+        <pubDate>Mon, 17 Mar 2026 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <category domain="category" nicename="oral-hygiene"><![CDATA[Oral Hygiene]]></category>
+        <content:encoded><![CDATA[<p>Biofilm is a protective community of microorganisms found in moist environments — including your mouth. It forms when bacteria settle on surfaces and begin multiplying and secreting substances that bind them together into a structured community. You may be more familiar with biofilm as <strong>dental plaque</strong>.</p>
+
+<h2>Where Does Biofilm Come From?</h2>
+<p>Biofilm can be found in wet places such as ponds, sewers, and bathroom drains, and it also grows on metals and minerals. In your mouth, it naturally forms on the surfaces of your teeth within just a few hours of brushing. When it accumulates, it appears as a slimy yellowish buildup on the surface of your teeth.</p>
+
+<h2>Is All Biofilm Bad?</h2>
+<p>Interestingly, not all biofilm is harmful. Healthy biofilm actually plays a role in protecting your teeth from disease-causing bacteria. The problem occurs when the balance is disrupted — when harmful bacteria proliferate and the biofilm becomes diseased. Diseased biofilm damages tooth enamel and can lead to cavities and gum disease.</p>
+
+<h2>How to Manage Biofilm</h2>
+<p>The most effective strategy for managing biofilm is consistent oral hygiene:</p>
+<ul>
+<li>Brush twice daily with an antibacterial toothpaste</li>
+<li>Use antibacterial mouthwash daily</li>
+<li>Floss at least once per day</li>
+<li>Schedule professional cleanings every six months</li>
+</ul>
+
+<p>When biofilm hardens, it becomes <strong>tartar (calculus)</strong>, which can only be removed by a dental professional. Antimicrobial agents such as chlorhexidine and triclosan can help manage problematic biofilm between visits.</p>
+
+<p>It's worth noting that beneficial biofilm regenerates approximately every twenty minutes, so maintaining a regular hygiene routine is essential for keeping your oral environment healthy. Ready for your next cleaning? <a href="/appointment-request/">Schedule an appointment</a> today.</p>]]></content:encoded>
+        <excerpt:encoded><![CDATA[Biofilm, also known as dental plaque, is a community of microorganisms that forms on your teeth. Learn what it is, why it matters, and how to keep it under control.]]></excerpt:encoded>
+        <wp:post_id>33</wp:post_id>
+        <wp:post_date><![CDATA[2026-03-17 00:00:00]]></wp:post_date>
+        <wp:post_status><![CDATA[publish]]></wp:post_status>
+        <wp:post_name><![CDATA[what-exactly-is-biofilm]]></wp:post_name>
+        <wp:post_type><![CDATA[post]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[What Exactly is Dental Biofilm (Plaque)? | Brittmoore Dental Houston]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Dental biofilm, or plaque, forms naturally in your mouth. Learn what it is, the difference between healthy and harmful biofilm, and how to manage it effectively.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- POST 5: Bright Ideas for Your Smile -->
+    <item>
+        <title>Bright Ideas for Your Smile</title>
+        <link>http://localhost/bright-ideas-for-your-smile/</link>
+        <pubDate>Mon, 10 Mar 2026 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <category domain="category" nicename="cosmetic-dentistry"><![CDATA[Cosmetic Dentistry]]></category>
+        <content:encoded><![CDATA[<p>Keeping your smile its brightest can be a challenge! The foods you eat, habits you keep, and even the natural aging process all play a role in tooth discoloration. The good news? There are practical steps you can take to maintain a brighter, healthier-looking smile.</p>
+
+<h2>Limit Staining Foods and Drinks</h2>
+<p>Tooth enamel is one of the hardest substances in the human body, but it is <strong>porous</strong> — meaning it can absorb staining compounds from what you eat and drink. Regular consumption of coffee, tea, red wine, and dark berries can gradually darken your teeth over time. Acidic foods like citrus fruits and carbonated sodas erode the enamel surface, making staining even easier.</p>
+
+<p>Tips for minimizing staining:</p>
+<ul>
+<li>Rinse your mouth with water immediately after consuming staining foods or drinks</li>
+<li>Use a straw when drinking dark-colored beverages</li>
+<li>Include crunchy fruits and vegetables (apples, carrots, celery) in your diet — they help scrub teeth naturally</li>
+<li>Dairy products can help neutralize acids and reduce staining</li>
+</ul>
+
+<h2>Keep Up with Healthy Habits</h2>
+<p>Plaque buildup creates a yellowish appearance on teeth. When plaque hardens into <strong>tartar</strong>, it develops brown and yellow discoloration that can't be removed by brushing alone. Tartar must be professionally removed during a dental cleaning. Whitening toothpaste can address surface stains but cannot eliminate deep discoloration or tartar.</p>
+
+<h2>Give Up Unhealthy Habits</h2>
+<p>Tobacco products — whether smoked or chewed — cause <strong>significant yellow and brown staining</strong> and cause serious damage to your overall oral health. Eliminating tobacco is one of the most impactful decisions you can make for both your smile and your health.</p>
+
+<h2>Beat the Clock with Professional Whitening</h2>
+<p>As we age, tooth enamel naturally thins, allowing the darker dentin layer beneath to show through — creating a yellow or grayish hue. Over-the-counter whitening products can help with minor surface stains, but for dramatic, long-lasting results, <strong>professional in-office whitening treatments</strong> offer stronger formulas and deliver noticeably brighter results in just one visit.</p>
+
+<p>Ready for a brighter smile? <a href="/appointment-request/">Contact us</a> to learn about our professional whitening options.</p>]]></content:encoded>
+        <excerpt:encoded><![CDATA[Learn proven strategies for maintaining a brighter smile — from managing staining foods to professional whitening treatments from Dr. Cimo at Brittmoore Dental.]]></excerpt:encoded>
+        <wp:post_id>34</wp:post_id>
+        <wp:post_date><![CDATA[2026-03-10 00:00:00]]></wp:post_date>
+        <wp:post_status><![CDATA[publish]]></wp:post_status>
+        <wp:post_name><![CDATA[bright-ideas-for-your-smile]]></wp:post_name>
+        <wp:post_type><![CDATA[post]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Bright Ideas for a Whiter Smile | Brittmoore Dental Houston TX]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Discover practical tips for maintaining a brighter smile — from dietary choices to professional whitening. Expert advice from Dr. Cimo at Brittmoore Dental in Houston.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- POST 6: Clean Toothbrush/Healthy Toothbrush -->
+    <item>
+        <title>Clean Toothbrush/Healthy Toothbrush</title>
+        <link>http://localhost/clean-toothbrush-healthy-toothbrush/</link>
+        <pubDate>Mon, 03 Mar 2026 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <category domain="category" nicename="oral-hygiene"><![CDATA[Oral Hygiene]]></category>
+        <content:encoded><![CDATA[<p>We've all learned a great deal about keeping healthy in recent years. Thorough hand washing, disinfecting cell phones and keyboards, wiping down shopping carts and door handles — these have become second nature for many of us. But what about maintaining the tool you use twice a day to clean your teeth?</p>
+
+<h2>Before You Brush</h2>
+<p>Simple habits make a big difference. Wash your hands thoroughly before brushing, and <strong>rinse your toothbrush with clean water</strong> before putting it in your mouth. This removes any dust or residue that may have settled on the bristles.</p>
+
+<h2>After You Brush</h2>
+<p>After brushing, thoroughly rinse your toothbrush to remove all toothpaste residue and debris. Shake off excess water and store it upright. If you're concerned about bacterial contamination, ask your dental team about antimicrobial cleaning methods for your toothbrush.</p>
+
+<h2>Flushing Habits</h2>
+<p>There's no definitive research linking toilet flushing to oral health problems, but closing the toilet lid before flushing is an easy way to reduce the spread of unpleasant particles — especially if your toothbrush is stored nearby on the counter.</p>
+
+<h2>Proper Storage</h2>
+<p>Store your toothbrush <strong>upright in a dry, open container</strong> rather than in a closed case or drawer. Enclosed, moist environments encourage bacterial growth. Keep multiple toothbrushes separated in the holder to prevent cross-contamination — this is especially important in households with immunocompromised members.</p>
+
+<h2>When to Replace</h2>
+<p>Replace your toothbrush or brush head <strong>every three to four months</strong>, or sooner if the bristles become frayed. A worn toothbrush is far less effective at cleaning your teeth. Also replace your toothbrush immediately after recovering from an illness to prevent reinfection.</p>
+
+<p>These simple toothbrush hygiene habits are an accessible, impactful way to support your overall oral wellness. Questions? <a href="/contact-us/">Contact us</a> anytime or <a href="/appointment-request/">schedule your next cleaning</a>.</p>]]></content:encoded>
+        <excerpt:encoded><![CDATA[Your toothbrush is your first line of defense against cavities and gum disease — but are you keeping it clean? Learn essential toothbrush hygiene tips from Brittmoore Dental.]]></excerpt:encoded>
+        <wp:post_id>35</wp:post_id>
+        <wp:post_date><![CDATA[2026-03-03 00:00:00]]></wp:post_date>
+        <wp:post_status><![CDATA[publish]]></wp:post_status>
+        <wp:post_name><![CDATA[clean-toothbrush-healthy-toothbrush]]></wp:post_name>
+        <wp:post_type><![CDATA[post]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Clean Toothbrush, Healthy Mouth | Brittmoore Dental Houston TX]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Learn how to properly clean and maintain your toothbrush for better oral health. Expert tips from Dr. Philip J. Cimo DDS, FAGD at Brittmoore Dental in Houston.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- POST 7: Three Must-Have Dental Treatments -->
+    <item>
+        <title>Three Must-Have Dental Treatments</title>
+        <link>http://localhost/three-must-have-dental-treatments/</link>
+        <pubDate>Mon, 24 Feb 2026 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <category domain="category" nicename="dental-health"><![CDATA[Dental Health]]></category>
+        <content:encoded><![CDATA[<p>In dentistry, there are a wide variety of treatments available — everything from elective cosmetic procedures to emergency extractions. But some treatments offer meaningful benefits for virtually every patient. Here are three we recommend for nearly everyone:</p>
+
+<h2>1. Complete Periodontal Exam</h2>
+<p>A comprehensive periodontal exam involves probing around each tooth to measure the depth of the pockets between teeth and gums, and to assess bone health and detect signs of infection. We recommend this exam at least <strong>once per year</strong>.</p>
+
+<p>Why does it matter? Research increasingly suggests that the connection between gum disease and serious systemic health conditions — including <strong>heart disease and stroke</strong> — is significant. Catching periodontal issues early allows for less invasive treatment and better long-term health outcomes.</p>
+
+<h2>2. Dental Sealants</h2>
+<p>Many people think of dental sealants as something only for children, but <strong>adults benefit from them too</strong>. Sealants are thin protective coatings applied to the chewing surfaces of back teeth, where decay most commonly begins in the deep grooves.</p>
+
+<p>If sealants applied in childhood have worn away over the years, reapplication is a simple and cost-effective investment. Prevention is always less expensive than treatment — the cost of a sealant is a fraction of what a filling or crown would cost.</p>
+
+<h2>3. Professional In-Office Whitening</h2>
+<p>While this might seem like a purely cosmetic treatment, the confidence boost that comes with a dramatically brighter smile has real psychological and social benefits. Professional whitening uses <strong>stronger concentrations of bleaching agents</strong> than over-the-counter products and delivers results in approximately two hours — a transformation that store-bought products simply can't match.</p>
+
+<p>Interested in any of these treatments? <a href="/appointment-request/">Schedule a consultation</a> with Dr. Cimo and we'll discuss which options are right for your individual needs.</p>]]></content:encoded>
+        <excerpt:encoded><![CDATA[From periodontal exams to dental sealants and professional whitening, these three dental treatments offer significant benefits for most patients. Learn more from Dr. Cimo.]]></excerpt:encoded>
+        <wp:post_id>36</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-24 00:00:00]]></wp:post_date>
+        <wp:post_status><![CDATA[publish]]></wp:post_status>
+        <wp:post_name><![CDATA[three-must-have-dental-treatments]]></wp:post_name>
+        <wp:post_type><![CDATA[post]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Three Must-Have Dental Treatments | Brittmoore Dental Houston TX]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Discover three essential dental treatments that benefit nearly every patient: periodontal exams, dental sealants, and professional whitening. Advice from Brittmoore Dental Houston.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+</channel>
+</rss>
